@@ -4,8 +4,7 @@
                </title>
   </head>
   <body>
-     <table border="70" style="background-color:#FFFFFF; border-collapse:collapse; border:5px solid #006699; color:#000000; width:100% cellpadding="" cellspacing="3" width="1500" height="100">
-    
+     
    
       <tr>
         <td>Home</td>

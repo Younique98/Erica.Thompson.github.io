@@ -4,9 +4,9 @@
                </title>
   </head>
   <body>
+     <table border="70" style="background-color:#FFFFFF; border-collapse:collapse; border:5px solid #006699; color:#000000; width:100% cellpadding="" cellspacing="3" width="1500" height="100">
     
-    <table border="70" style="background-color:#FFFFFF; border-collapse:collapse;border:5px solid #006699; color:#000000;width:100%' cellpaddin="" cell spacing="3" width="1500" height="100">
-    
+   
       <tr>
         <td>Home</td>
         <td>Youtube</td>
@@ -65,4 +65,3 @@ style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.g
   </body>
 </html>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -10,12 +10,23 @@
         <td>Home</td>
         <td>Youtube</td>
         <div><!--[if mso]>
-  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.youtube.com/user/Younique098" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://younique98.github.io/Erica.Thompson.github.io/" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">
     <v:fill type="tile" src="https://i.imgur.com/0xPEf.gif" color="#d91226" />
     <w:anchorlock/>
-    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">YOUTUBE</center>
+    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">HOME</center>
   </v:roundrect>
-<![endif]--><a href="https://www.youtube.com/user/Younique098"
+<![endif]--><a href="https://younique98.github.io/Erica.Thompson.github.io/"
+style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.gif);border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">BLOG</a></div>
+        <div><!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://github.com/Younique98" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">
+    <v:fill type="tile" src="https://i.imgur.com/0xPEf.gif" color="#d91226" />
+    <w:anchorlock/>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://codepen.io/MinimalistEve/" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">
+    <v:fill type="tile" src="https://i.imgur.com/0xPEf.gif" color="#d91226" />
+    <w:anchorlock/>
+    <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">CODEPEN PROFILE</center>
+  </v:roundrect>
+<![endif]--><a href="https://codepen.io/MinimalistEve/"
 style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.gif);border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">YOUTUBE</a></div>
         <div><!--[if mso]>
   <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://github.com/Younique98" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">
@@ -44,7 +55,7 @@ style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.g
  <a href="https://www.instagram.com/minimalisteve/"><img src="http://static1.squarespace.com/static/5155d9ece4b06ce8229b7640/52efd6ece4b07fbe8886d5f3/52efd721e4b0dddab1301874/1391449903560/tumblr_mzzqwktTbR1st5lhmo1_1280.jpg" alt="Women who code" style="width:604px;height:328px;"></a></div> 
 </div>
 <div align="center">
-<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+<form id="contact_form" action="mailto:younique98@gmail.com" method="POST" enctype="multipart/form-data">
 	<div class="row">
 		<label for="name">Your name:</label><br />
 		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
@@ -58,6 +69,7 @@ style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.g
 		<textarea id="message" class="input" name="message" rows="7" cols="30" alt="form"></textarea><br />
 	</div>
   <input id="submit_button" type="submit" value="Contact Me" />
+  
   </form>
 </div>
                                                                                                                                

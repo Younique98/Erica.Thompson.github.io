@@ -7,8 +7,7 @@
      
    
       <tr>
-        <td>Home</td>
-        <td>Youtube</td>
+        
         <div><!--[if mso]>
 	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://younique98.github.io/Erica.Thompson.github.io/" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">
     <v:fill type="tile" src="https://i.imgur.com/0xPEf.gif" color="#d91226" />
@@ -45,8 +44,7 @@ style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.g
     <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">PROJECTS</center>
   </v:roundrect>
 <![endif]--><a href="https://github.com/Younique98"
-style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.gif);border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">PROJECTS</a></div><td>Projects</td>
-          <td>Give Me A Shout</td>
+style="background-color:#d91226;background-image:url(https://i.imgur.com/0xPEf.gif);border:1px solid #1e3650;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">PROJECTS</a></div><
         <td>Social Media</td>
         <td>Blog</td>
       </tr>

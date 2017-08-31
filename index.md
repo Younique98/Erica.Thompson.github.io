@@ -1,6 +1,7 @@
 <html>
   <head>
-    <title>Erica Thompson
+    <title>
+    Erica Thompson
                </title>
   </head>
   <body>
@@ -8,7 +9,9 @@
     
    
       <tr>
-        <td>Home</td>
+        <td>
+	Home
+	</td>
         <td>Youtube</td>
         <div><!--[if mso]>
   <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.youtube.com/user/Younique098" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#1e3650" fill="t">

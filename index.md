@@ -8,6 +8,9 @@
     <h1><b>Erica Thompson</b></h1>
     <h2>Minimalist~Blogger~Mom</h2>
     <h3>Coding & Web Developing Adventures</h3>
+    <h4>
+      August 25 2017
+      </h4>
     <body background="http://publicdomainarchive.com/wp-content/uploads/2014/10/public-domain-images-free-stock-photos-high-quality-resolution-downloads-nashville-tennessee-32-1000x666.jpg">
     <div id = "mydiv">"
     <a href="http://www.minimalistsisters.com/2015/12/minimalist-sisters-is-page-created-by.html">

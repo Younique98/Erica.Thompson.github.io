@@ -1,0 +1,19 @@
+table {
+table-layout: fixed;}
+table {
+font: bold 18px/1.1em Arial, Helvetica, sans-serif; text-shadow: 1px 1px 4px black; letter-spacing: 0.1em; background-color: #98FB98;}
+body{ 
+    background-image: url ("http://publicdomainarchive.com/wp-content/uploads/2014/10/public-domain-images-free-stock-photos-high-quality-resolution-downloads-nashville-tennessee-32-1000x666.jpg"); 
+}
+h1{
+color:white; text-align:center; font: bold 80px Arial, Helvetica, Sans-Serif;}
+h2{
+text-align: right; text-align:center; font: 50px Arial, Helvetica, Sans-Serif; color:white}
+h3{
+text-align: center; text-align:top center; font: 30px Arial bold, Helvetica, Sans-Serif; color:white}
+div{
+margin: 0 auto; position: reltive; width: 400px}
+form{
+text-align: center; display: inline-block; padding: 20px; width:auto; background: #FAFAFA;}
+input, textarea {
+line-height: 25px; padding: 5px; width: 285px; border: 1px solid #E5E5E5; outline: 0; font: normal 15px/150% Verdana, sans-serif;}
